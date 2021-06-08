@@ -1,0 +1,15 @@
+[Licence]
+LicenceName=JHON DOE
+LicenceAddress=IN MY HOUSE
+LicenceCity=CITY
+LicenceZip=69696
+LicenceCountry=AROUND THE WORLD
+LicenceCode=8921-2440-1111-2821
+
+[Licence]
+LicenceName=JHON DOE
+LicenceAddress=IN MY HOUSE
+LicenceCity=CITY
+LicenceZip=96969
+LicenceCountry=AROUND THE WORLD
+LicenceCode=9202-2480-1111-3187-9109
